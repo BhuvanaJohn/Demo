@@ -1,0 +1,1345 @@
+﻿2019-11-27T13:09:56.9862435+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-11-27T13:09:56.9872427+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.36 in Framework clr40 in x86 mode execution started
+2019-11-27T13:09:56.9872427+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\chris\source\repos\SwordActiveRisk\SwordActiveRisk\SwordActiveRisk_BlogVerification\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-27T13:09:57.1501502+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\chris\source\repos\SwordActiveRisk\SwordActiveRisk\SwordActiveRisk_BlogVerification\bin\Debug\SwordActiveRisk_BlogVerification.dll
+2019-11-27T13:09:57.1501502+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\chris\source\repos\SwordActiveRisk\SwordActiveRisk\TestResults" (default)
+2019-11-27T13:09:57.1501502+00:00;VSTestExecutionThread;Info;Profile: SwordActiveRisk_BlogVerification
+2019-11-27T13:09:57.1761357+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\chris\source\repos\SwordActiveRisk\SwordActiveRisk\TestResults\SwordActiveRisk_BlogVerification_SwordActiveRisk_BlogVerification_2019-11-27T130957.log
+2019-11-27T13:09:57.1881268+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-27T13:09:57.1951236+00:00;Thread#13;Info;Checking license
+2019-11-27T13:09:57.2161137+00:00;Thread#13;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-11-27T13:10:02.2171144+00:00;Thread#13;Info;Evaluation delay finished.
+2019-11-27T13:10:02.2281107+00:00;Thread#13;Info;License check completed
+2019-11-27T13:10:02.2291080+00:00;Thread#13;Info;starting test run
+2019-11-27T13:10:02.2470974+00:00;Thread#13;Info;Discovering target: Default
+2019-11-27T13:10:02.2470974+00:00;Thread#13;Info;Discovering tests from assembly: C:\Users\chris\source\repos\SwordActiveRisk\SwordActiveRisk\SwordActiveRisk_BlogVerification\bin\Debug\SwordActiveRisk_BlogVerification.dll
+2019-11-27T13:10:02.8697421+00:00;Thread#13;Info;Discovered tests from assembly: C:\Users\chris\source\repos\SwordActiveRisk\SwordActiveRisk\SwordActiveRisk_BlogVerification\bin\Debug\SwordActiveRisk_BlogVerification.dll
+2019-11-27T13:10:02.8747388+00:00:Test Suite Dump
+2019-11-27T13:10:02.8777382+00:00:#0: SwordActiveRisk_BlogVerification/SwordActiveRisk_BlogVerification - 
+2019-11-27T13:10:02.8777382+00:00:#1: Default - 
+2019-11-27T13:10:02.8777382+00:00:#2: SwordActiveRisk_BlogVerification - 
+2019-11-27T13:10:02.8777382+00:00:#3: SwordActiveRisk_BlogVerification - 
+2019-11-27T13:10:02.9596909+00:00:#4: Validate the correct number of blog posts are shown for each blog post by date, February 2017 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+February+2017
+2019-11-27T13:10:02.9596909+00:00:#5: Validate the correct number of blog posts are shown for each blog post by date, January 2017 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+January+2017
+2019-11-27T13:10:02.9596909+00:00:#6: Validate the correct number of blog posts are shown for each blog post by date, December 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+December+2016
+2019-11-27T13:10:02.9596909+00:00:#7: Validate the correct number of blog posts are shown for each blog post by date, November 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+November+2016
+2019-11-27T13:10:02.9596909+00:00:#8: Validate the correct number of blog posts are shown for each blog post by date, October 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+October+2016
+2019-11-27T13:10:02.9596909+00:00:#9: Validate the correct number of blog posts are shown for each blog post by date, September 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+September+2016
+2019-11-27T13:10:02.9596909+00:00:#10: Validate the correct number of blog posts are shown for each blog post by date, August 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+August+2016
+2019-11-27T13:10:02.9596909+00:00:#11: Validate the correct number of blog posts are shown for each blog post by date, July 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+July+2016
+2019-11-27T13:10:02.9596909+00:00:#12: Validate the correct number of blog posts are shown for each blog post by date, June 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+June+2016
+2019-11-27T13:10:02.9596909+00:00:#13: Validate the correct number of blog posts are shown for each blog post by date, March 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+March+2016
+2019-11-27T13:10:02.9596909+00:00:#14: Validate the correct number of blog posts are shown for each blog post by date, January 2016 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+January+2016
+2019-11-27T13:10:02.9596909+00:00:#15: Validate the correct number of blog posts are shown for each blog post by date, November 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+November+2015
+2019-11-27T13:10:02.9596909+00:00:#16: Validate the correct number of blog posts are shown for each blog post by date, October 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+October+2015
+2019-11-27T13:10:02.9596909+00:00:#17: Validate the correct number of blog posts are shown for each blog post by date, September 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+September+2015
+2019-11-27T13:10:02.9596909+00:00:#18: Validate the correct number of blog posts are shown for each blog post by date, August 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+August+2015
+2019-11-27T13:10:02.9596909+00:00:#19: Validate the correct number of blog posts are shown for each blog post by date, July 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+July+2015
+2019-11-27T13:10:02.9596909+00:00:#20: Validate the correct number of blog posts are shown for each blog post by date, April 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+April+2015
+2019-11-27T13:10:02.9596909+00:00:#21: Validate the correct number of blog posts are shown for each blog post by date, March 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+March+2015
+2019-11-27T13:10:02.9596909+00:00:#22: Validate the correct number of blog posts are shown for each blog post by date, February 2015 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+February+2015
+2019-11-27T13:10:02.9596909+00:00:#23: Validate the correct number of blog posts are shown for each blog post by date, December 2014 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+December+2014
+2019-11-27T13:10:02.9606905+00:00:#24: Validate the correct number of blog posts are shown for each blog post by date, October 2014 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+October+2014
+2019-11-27T13:10:02.9606905+00:00:#25: Validate the correct number of blog posts are shown for each blog post by date, September 2014 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+September+2014
+2019-11-27T13:10:02.9606905+00:00:#26: Validate the correct number of blog posts are shown for each blog post by date, August 2014 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+August+2014
+2019-11-27T13:10:02.9606905+00:00:#27: Validate the correct number of blog posts are shown for each blog post by date, April 2014 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+April+2014
+2019-11-27T13:10:02.9606905+00:00:#28: Validate the correct number of blog posts are shown for each blog post by date, March 2014 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+March+2014
+2019-11-27T13:10:02.9606905+00:00:#29: Validate the correct number of blog posts are shown for each blog post by date, February 2014 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+February+2014
+2019-11-27T13:10:02.9606905+00:00:#30: Validate the correct number of blog posts are shown for each blog post by date, August 2013 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+August+2013
+2019-11-27T13:10:02.9606905+00:00:#31: Validate the correct number of blog posts are shown for each blog post by date, July 2013 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+July+2013
+2019-11-27T13:10:02.9606905+00:00:#32: Validate the correct number of blog posts are shown for each blog post by date, June 2013 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+June+2013
+2019-11-27T13:10:02.9606905+00:00:#33: Validate the correct number of blog posts are shown for each blog post by date, April 2013 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+April+2013
+2019-11-27T13:10:02.9606905+00:00:#34: Validate the correct number of blog posts are shown for each blog post by date, March 2013 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+March+2013
+2019-11-27T13:10:02.9606905+00:00:#35: Validate the correct number of blog posts are shown for each blog post by date, February 2013 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+February+2013
+2019-11-27T13:10:02.9606905+00:00:#36: Validate the correct number of blog posts are shown for each blog post by date, January 2013 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+January+2013
+2019-11-27T13:10:02.9606905+00:00:#37: Validate the correct number of blog posts are shown for each blog post by date, December 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+December+2012
+2019-11-27T13:10:02.9606905+00:00:#38: Validate the correct number of blog posts are shown for each blog post by date, November 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+November+2012
+2019-11-27T13:10:02.9606905+00:00:#39: Validate the correct number of blog posts are shown for each blog post by date, October 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+October+2012
+2019-11-27T13:10:02.9606905+00:00:#40: Validate the correct number of blog posts are shown for each blog post by date, September 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+September+2012
+2019-11-27T13:10:02.9606905+00:00:#41: Validate the correct number of blog posts are shown for each blog post by date, August 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+August+2012
+2019-11-27T13:10:02.9606905+00:00:#42: Validate the correct number of blog posts are shown for each blog post by date, July 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+July+2012
+2019-11-27T13:10:02.9606905+00:00:#43: Validate the correct number of blog posts are shown for each blog post by date, June 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+June+2012
+2019-11-27T13:10:02.9606905+00:00:#44: Validate the correct number of blog posts are shown for each blog post by date, May 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+May+2012
+2019-11-27T13:10:02.9606905+00:00:#45: Validate the correct number of blog posts are shown for each blog post by date, April 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+April+2012
+2019-11-27T13:10:02.9606905+00:00:#46: Validate the correct number of blog posts are shown for each blog post by date, March 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+March+2012
+2019-11-27T13:10:02.9606905+00:00:#47: Validate the correct number of blog posts are shown for each blog post by date, February 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+February+2012
+2019-11-27T13:10:02.9606905+00:00:#48: Validate the correct number of blog posts are shown for each blog post by date, January 2012 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+January+2012
+2019-11-27T13:10:02.9606905+00:00:#49: Validate the correct number of blog posts are shown for each blog post by date, December 2011 - TestAssembly:SwordActiveRisk_BlogVerification/Feature:SwordActiveRisk_BlogVerification/Scenario:Validate+the+correct+number+of+blog+posts+are+shown+for+each+blog+post+by+date%2c+December+2011
+2019-11-27T13:10:02.9606905+00:00:End: Test Suite Dump
+2019-11-27T13:10:03.0066638+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:10:03.0096609+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-11-27T13:10:03.0096609+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-11-27T13:10:03.0146589+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:10:03.0146589+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:10:03.0146589+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:10:03.0146589+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-11-27T13:10:03.0166574+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-11-27T13:10:03.0196584+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:10:03.0246528+00:00:Thread #0: creating new test thread executor for SwordActiveRisk_BlogVerification, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-11-27T13:10:03.0286509+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-27T13:10:03.0746254+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-11-27T13:10:03.0786226+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-11-27T13:10:03.3104905+00:00:Thread#0: Test #4/0 is started on thread #0
+2019-11-27T13:10:03.7062649+00:00:Thread#0:T:-> Loading plugin C:\Users\chris\source\repos\SwordActiveRisk\SwordActiveRisk\SwordActiveRisk_BlogVerification\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-11-27T13:10:03.7362530+00:00:Thread#0:T:-> Using default config
+2019-11-27T13:10:20.8355427+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:10:26.4943281+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (5.6s)
+2019-11-27T13:10:26.4993257+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:10:27.4657734+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (1.0s)
+2019-11-27T13:10:27.4667717+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:10:27.5237400+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:10:27.5247400+00:00:Thread#0:B:When the user clicks on Blog post by date 'February 2017'
+2019-11-27T13:10:29.8341911+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("February 2017") (2.3s)
+2019-11-27T13:10:29.8351908+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:10:38.2224905+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:10:38.2224905+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:10:38.2254913+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:10:38.2264898+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:10:38.2354827+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:10:38.2354827+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:10:38.3104406+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:10:38.3314280+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:10:38.3314280+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-11-27T13:10:38.3314280+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-11-27T13:10:38.3314280+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:10:38.3314280+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:10:38.3314280+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:10:38.3314280+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-11-27T13:10:38.3314280+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-11-27T13:10:38.3314280+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:10:38.3554136+00:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 35.0449231 seconds
+2019-11-27T13:10:38.3574132+00:00:Thread#0: Test #5/0 is started on thread #0
+2019-11-27T13:10:38.3584124+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:10:42.9992689+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.6s)
+2019-11-27T13:10:43.0002687+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:10:43.0092629+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:10:43.0092629+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:10:43.1271957+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:10:43.1271957+00:00:Thread#0:B:When the user clicks on Blog post by date 'January 2017'
+2019-11-27T13:10:45.6427832+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("January 2017") (2.5s)
+2019-11-27T13:10:45.6437832+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:10:53.9724908+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:10:53.9724908+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:10:53.9745049+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:10:53.9745049+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '5'
+2019-11-27T13:10:54.1076006+00:00:Thread#0:T:Number of articles are not matching with Expected Result
+2019-11-27T13:10:54.1076006+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("5") (0.1s)
+2019-11-27T13:10:54.1076006+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:10:54.1715651+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:10:54.1725632+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:10:54.1725632+00:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-11-27T13:10:54.1725632+00:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-11-27T13:10:54.1725632+00:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:10:54.1725632+00:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:10:54.1725632+00:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:10:54.1725632+00:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-11-27T13:10:54.1725632+00:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-11-27T13:10:54.1725632+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:10:54.1735616+00:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 15.8161484 seconds
+2019-11-27T13:10:54.1735616+00:00:Thread#0: Test #6/0 is started on thread #0
+2019-11-27T13:10:54.1745616+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:10:58.9128593+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:10:58.9128593+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:10:58.9228548+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:10:58.9228548+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:10:58.9998105+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:10:58.9998105+00:00:Thread#0:B:When the user clicks on Blog post by date 'December 2016'
+2019-11-27T13:11:01.5789047+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("December 2016") (2.6s)
+2019-11-27T13:11:01.5789047+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:11:09.9410864+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:11:09.9410864+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:11:09.9440849+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:11:09.9440849+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:11:09.9510840+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:11:09.9520835+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:11:10.1069917+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.2s)
+2019-11-27T13:11:10.1069917+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:11:10.1069917+00:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-11-27T13:11:10.1069917+00:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-11-27T13:11:10.1069917+00:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:11:10.1069917+00:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:11:10.1069917+00:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:11:10.1069917+00:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-11-27T13:11:10.1069917+00:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-11-27T13:11:10.1069917+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:11:10.1079912+00:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 15.9344296 seconds
+2019-11-27T13:11:10.1079912+00:00:Thread#0: Test #7/0 is started on thread #0
+2019-11-27T13:11:10.1079912+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:11:15.0567551+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.9s)
+2019-11-27T13:11:15.0577558+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:11:15.0597555+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:11:15.0597555+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:11:15.1247178+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:11:15.1247178+00:00:Thread#0:B:When the user clicks on Blog post by date 'November 2016'
+2019-11-27T13:11:17.6512167+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("November 2016") (2.5s)
+2019-11-27T13:11:17.6512167+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:11:26.0828900+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:11:26.0828900+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:11:26.0858962+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:11:26.0858962+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:11:26.0908729+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:11:26.0908729+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:11:26.1698287+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:11:26.1698287+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:11:26.1698287+00:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2019-11-27T13:11:26.1698287+00:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2019-11-27T13:11:26.1698287+00:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:11:26.1698287+00:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:11:26.1698287+00:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:11:26.1698287+00:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2019-11-27T13:11:26.1698287+00:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2019-11-27T13:11:26.1698287+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:11:26.1718267+00:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 16.0638355 seconds
+2019-11-27T13:11:26.1718267+00:00:Thread#0: Test #8/0 is started on thread #0
+2019-11-27T13:11:26.1718267+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:11:31.1556351+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (5.0s)
+2019-11-27T13:11:31.1566337+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:11:31.1586317+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:11:31.1586317+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:11:31.2076049+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.0s)
+2019-11-27T13:11:31.2086035+00:00:Thread#0:B:When the user clicks on Blog post by date 'October 2016'
+2019-11-27T13:11:33.6777529+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("October 2016") (2.5s)
+2019-11-27T13:11:33.6787536+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:11:42.0509099+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:11:42.0519077+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:11:42.0539067+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:11:42.0539067+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:11:42.0649007+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:11:42.0649007+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:11:42.1388577+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:11:42.1398577+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:11:42.1398577+00:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2019-11-27T13:11:42.1398577+00:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2019-11-27T13:11:42.1398577+00:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:11:42.1398577+00:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:11:42.1398577+00:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:11:42.1398577+00:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2019-11-27T13:11:42.1398577+00:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2019-11-27T13:11:42.1398577+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:11:42.1408577+00:00:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 15.969031 seconds
+2019-11-27T13:11:42.1408577+00:00:Thread#0: Test #9/0 is started on thread #0
+2019-11-27T13:11:42.1418561+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:11:46.7815884+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.6s)
+2019-11-27T13:11:46.7825885+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:11:46.7905843+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:11:46.7905843+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:11:46.8765349+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:11:46.8775349+00:00:Thread#0:B:When the user clicks on Blog post by date 'September 2016'
+2019-11-27T13:11:49.3785534+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("September 2016") (2.5s)
+2019-11-27T13:11:49.3785534+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:11:57.7799793+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:11:57.7799793+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:11:57.7829769+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:11:57.7829769+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:11:57.7899740+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:11:57.7899740+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:11:57.8559355+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:11:57.8559355+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:11:57.8559355+00:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2019-11-27T13:11:57.8559355+00:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-11-27T13:11:57.8559355+00:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:11:57.8559355+00:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:11:57.8559355+00:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:11:57.8559355+00:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-11-27T13:11:57.8559355+00:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-11-27T13:11:57.8559355+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:11:57.8579329+00:00:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 15.7170752 seconds
+2019-11-27T13:11:57.8579329+00:00:Thread#0: Test #10/0 is started on thread #0
+2019-11-27T13:11:57.8589322+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:12:02.9036353+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (5.0s)
+2019-11-27T13:12:02.9036353+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:12:02.9106338+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:12:02.9116322+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:12:03.0535510+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:12:03.0535510+00:00:Thread#0:B:When the user clicks on Blog post by date 'August 2016'
+2019-11-27T13:12:05.4193615+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("August 2016") (2.4s)
+2019-11-27T13:12:05.4193615+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:12:13.7509459+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:12:13.7509459+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:12:13.7529442+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:12:13.7539443+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:12:13.7579427+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:12:13.7589426+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:12:13.8358959+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:12:13.8358959+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:12:13.8358959+00:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2019-11-27T13:12:13.8358959+00:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2019-11-27T13:12:13.8358959+00:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:12:13.8358959+00:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:12:13.8358959+00:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:12:13.8358959+00:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2019-11-27T13:12:13.8358959+00:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2019-11-27T13:12:13.8358959+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:12:13.8368950+00:00:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 15.9789621 seconds
+2019-11-27T13:12:13.8368950+00:00:Thread#0: Test #11/0 is started on thread #0
+2019-11-27T13:12:13.8368950+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:12:18.5882748+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:12:18.5882748+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:12:18.5912751+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:12:18.5912751+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:12:18.7761677+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:12:18.7771669+00:00:Thread#0:B:When the user clicks on Blog post by date 'July 2016'
+2019-11-27T13:12:21.2681187+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("July 2016") (2.5s)
+2019-11-27T13:12:21.2681187+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:12:29.6110665+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:12:29.6120658+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:12:29.6140659+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:12:29.6150647+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '3'
+2019-11-27T13:12:29.6260583+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("3") (0.0s)
+2019-11-27T13:12:29.6270575+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:12:29.7679771+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:12:29.7679771+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:12:29.7689795+00:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2019-11-27T13:12:29.7689795+00:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2019-11-27T13:12:29.7689795+00:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:12:29.7689795+00:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:12:29.7689795+00:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:12:29.7689795+00:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2019-11-27T13:12:29.7689795+00:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2019-11-27T13:12:29.7689795+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:12:29.7689795+00:00:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 15.9320845 seconds
+2019-11-27T13:12:29.7699745+00:00:Thread#0: Test #12/0 is started on thread #0
+2019-11-27T13:12:29.7699745+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:12:34.5927959+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:12:34.5927959+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:12:34.5977928+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:12:34.5977928+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:12:34.6567582+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:12:34.6567582+00:00:Thread#0:B:When the user clicks on Blog post by date 'June 2016'
+2019-11-27T13:12:37.1639586+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("June 2016") (2.5s)
+2019-11-27T13:12:37.1649589+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:12:45.5375676+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:12:45.5375676+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:12:45.5405681+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:12:45.5405681+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:12:45.5485641+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:12:45.5485641+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:12:45.6444897+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:12:45.6444897+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:12:45.6444897+00:00:Thread#:Scheduler: testitem #13 from normal test queue 
+2019-11-27T13:12:45.6444897+00:00:Thread#0:Scheduler: considering testitem #13 for thread 0
+2019-11-27T13:12:45.6444897+00:00:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:12:45.6444897+00:00:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:12:45.6444897+00:00:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:12:45.6444897+00:00:Thread#0:Scheduler: using testitem #13 for thread 0
+2019-11-27T13:12:45.6444897+00:00:Thread#0:Scheduler: Test #13 is scheduled for thread
+2019-11-27T13:12:45.6444897+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:12:45.6454862+00:00:Thread#0: Test #12/0 is finished on thread #0 as Succeeded within 15.8755117 seconds
+2019-11-27T13:12:45.6454862+00:00:Thread#0: Test #13/0 is started on thread #0
+2019-11-27T13:12:45.6464882+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:12:50.4669164+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:12:50.4679162+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:12:50.4739119+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:12:50.4749128+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:12:50.6378193+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:12:50.6388190+00:00:Thread#0:B:When the user clicks on Blog post by date 'March 2016'
+2019-11-27T13:12:53.1545332+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("March 2016") (2.5s)
+2019-11-27T13:12:53.1555300+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:13:01.4857633+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:13:01.4857633+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:13:01.4887671+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:13:01.4897629+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:13:01.4937833+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:13:01.4937833+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:13:01.5587222+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:13:01.5587222+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:13:01.5587222+00:00:Thread#:Scheduler: testitem #14 from normal test queue 
+2019-11-27T13:13:01.5587222+00:00:Thread#0:Scheduler: considering testitem #14 for thread 0
+2019-11-27T13:13:01.5587222+00:00:Thread#0:TestItem#14:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:13:01.5587222+00:00:Thread#0:TestItem#14:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:13:01.5587222+00:00:Thread#0:TestItem#14:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:13:01.5587222+00:00:Thread#0:Scheduler: using testitem #14 for thread 0
+2019-11-27T13:13:01.5587222+00:00:Thread#0:Scheduler: Test #14 is scheduled for thread
+2019-11-27T13:13:01.5587222+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:13:01.5597214+00:00:Thread#0: Test #13/0 is finished on thread #0 as Succeeded within 15.9142352 seconds
+2019-11-27T13:13:01.5597214+00:00:Thread#0: Test #14/0 is started on thread #0
+2019-11-27T13:13:01.5607206+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:13:06.6460268+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (5.1s)
+2019-11-27T13:13:06.6460268+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:13:06.6520230+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:13:06.6520230+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:13:06.7629597+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:13:06.7629597+00:00:Thread#0:B:When the user clicks on Blog post by date 'January 2016'
+2019-11-27T13:13:09.2621787+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("January 2016") (2.5s)
+2019-11-27T13:13:09.2621787+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:13:17.5965570+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:13:17.5965570+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:13:17.5985524+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:13:17.5985524+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:13:17.6035531+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:13:17.6035531+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:13:17.7014946+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:13:17.7024946+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:13:17.7024946+00:00:Thread#:Scheduler: testitem #15 from normal test queue 
+2019-11-27T13:13:17.7024946+00:00:Thread#0:Scheduler: considering testitem #15 for thread 0
+2019-11-27T13:13:17.7024946+00:00:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:13:17.7024946+00:00:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:13:17.7024946+00:00:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:13:17.7024946+00:00:Thread#0:Scheduler: using testitem #15 for thread 0
+2019-11-27T13:13:17.7024946+00:00:Thread#0:Scheduler: Test #15 is scheduled for thread
+2019-11-27T13:13:17.7024946+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:13:17.7034939+00:00:Thread#0: Test #14/0 is finished on thread #0 as Succeeded within 16.1437725 seconds
+2019-11-27T13:13:17.7034939+00:00:Thread#0: Test #15/0 is started on thread #0
+2019-11-27T13:13:17.7044925+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:13:22.3282493+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.6s)
+2019-11-27T13:13:22.3282493+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:13:22.3352475+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:13:22.3352475+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:13:22.4721661+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:13:22.4731667+00:00:Thread#0:B:When the user clicks on Blog post by date 'November 2015'
+2019-11-27T13:13:24.9010384+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("November 2015") (2.4s)
+2019-11-27T13:13:24.9020377+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:13:33.2640906+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:13:33.2640906+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:13:33.2670911+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:13:33.2670911+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:13:33.2740864+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:13:33.2740864+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:13:33.3410471+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:13:33.3410471+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:13:33.3410471+00:00:Thread#:Scheduler: testitem #16 from normal test queue 
+2019-11-27T13:13:33.3410471+00:00:Thread#0:Scheduler: considering testitem #16 for thread 0
+2019-11-27T13:13:33.3410471+00:00:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:13:33.3410471+00:00:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:13:33.3410471+00:00:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:13:33.3410471+00:00:Thread#0:Scheduler: using testitem #16 for thread 0
+2019-11-27T13:13:33.3410471+00:00:Thread#0:Scheduler: Test #16 is scheduled for thread
+2019-11-27T13:13:33.3410471+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:13:33.3430455+00:00:Thread#0: Test #15/0 is finished on thread #0 as Succeeded within 15.6395516 seconds
+2019-11-27T13:13:33.3430455+00:00:Thread#0: Test #16/0 is started on thread #0
+2019-11-27T13:13:33.3440453+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:13:38.0792177+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:13:38.0802172+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:13:38.0822177+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:13:38.0832144+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:13:38.1411809+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:13:38.1411809+00:00:Thread#0:B:When the user clicks on Blog post by date 'October 2015'
+2019-11-27T13:13:40.6080220+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("October 2015") (2.5s)
+2019-11-27T13:13:40.6080220+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:13:49.0018272+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:13:49.0018272+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:13:49.0068226+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:13:49.0078224+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:13:49.0188148+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:13:49.0188148+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:13:49.0897760+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:13:49.0907745+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:13:49.0907745+00:00:Thread#:Scheduler: testitem #17 from normal test queue 
+2019-11-27T13:13:49.0907745+00:00:Thread#0:Scheduler: considering testitem #17 for thread 0
+2019-11-27T13:13:49.0907745+00:00:Thread#0:TestItem#17:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:13:49.0907745+00:00:Thread#0:TestItem#17:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:13:49.0907745+00:00:Thread#0:TestItem#17:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:13:49.0907745+00:00:Thread#0:Scheduler: using testitem #17 for thread 0
+2019-11-27T13:13:49.0907745+00:00:Thread#0:Scheduler: Test #17 is scheduled for thread
+2019-11-27T13:13:49.0907745+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:13:49.0917737+00:00:Thread#0: Test #16/0 is finished on thread #0 as Succeeded within 15.7487282 seconds
+2019-11-27T13:13:49.0937747+00:00:Thread#0: Test #17/0 is started on thread #0
+2019-11-27T13:13:49.0947734+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:13:53.7052772+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.6s)
+2019-11-27T13:13:53.7062766+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:13:53.7262657+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:13:53.7262657+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:13:53.8491955+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:13:53.8491955+00:00:Thread#0:B:When the user clicks on Blog post by date 'September 2015'
+2019-11-27T13:13:56.3121934+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("September 2015") (2.5s)
+2019-11-27T13:13:56.3121934+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:14:04.6865646+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:14:04.6865646+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:14:04.6935607+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:14:04.6935607+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '5'
+2019-11-27T13:14:04.7005590+00:00:Thread#0:T:Number of articles are not matching with Expected Result
+2019-11-27T13:14:04.7005590+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("5") (0.0s)
+2019-11-27T13:14:04.7015559+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:14:04.7955020+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:14:04.7955020+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:14:04.7955020+00:00:Thread#:Scheduler: testitem #18 from normal test queue 
+2019-11-27T13:14:04.7955020+00:00:Thread#0:Scheduler: considering testitem #18 for thread 0
+2019-11-27T13:14:04.7955020+00:00:Thread#0:TestItem#18:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:14:04.7955020+00:00:Thread#0:TestItem#18:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:14:04.7955020+00:00:Thread#0:TestItem#18:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:14:04.7955020+00:00:Thread#0:Scheduler: using testitem #18 for thread 0
+2019-11-27T13:14:04.7955020+00:00:Thread#0:Scheduler: Test #18 is scheduled for thread
+2019-11-27T13:14:04.7955020+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:14:04.7975006+00:00:Thread#0: Test #17/0 is finished on thread #0 as Succeeded within 15.7037259 seconds
+2019-11-27T13:14:04.7975006+00:00:Thread#0: Test #18/0 is started on thread #0
+2019-11-27T13:14:04.7985019+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:14:09.6461856+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:14:09.6461856+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:14:09.6581716+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:14:09.6581716+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:14:09.9520042+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.3s)
+2019-11-27T13:14:09.9520042+00:00:Thread#0:B:When the user clicks on Blog post by date 'August 2015'
+2019-11-27T13:14:12.5801726+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("August 2015") (2.6s)
+2019-11-27T13:14:12.5801726+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:14:20.9438495+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:14:20.9438495+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:14:20.9458512+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:14:20.9458512+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:14:20.9508469+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:14:20.9518492+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:14:21.0477902+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:14:21.0477902+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:14:21.0477902+00:00:Thread#:Scheduler: testitem #19 from normal test queue 
+2019-11-27T13:14:21.0477902+00:00:Thread#0:Scheduler: considering testitem #19 for thread 0
+2019-11-27T13:14:21.0477902+00:00:Thread#0:TestItem#19:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:14:21.0477902+00:00:Thread#0:TestItem#19:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:14:21.0477902+00:00:Thread#0:TestItem#19:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:14:21.0477902+00:00:Thread#0:Scheduler: using testitem #19 for thread 0
+2019-11-27T13:14:21.0477902+00:00:Thread#0:Scheduler: Test #19 is scheduled for thread
+2019-11-27T13:14:21.0477902+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:14:21.0497903+00:00:Thread#0: Test #18/0 is finished on thread #0 as Succeeded within 16.2522897 seconds
+2019-11-27T13:14:21.0497903+00:00:Thread#0: Test #19/0 is started on thread #0
+2019-11-27T13:14:21.0507903+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:14:25.7699950+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:14:25.7699950+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:14:25.7809869+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:14:25.7819874+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:14:25.9309014+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:14:25.9309014+00:00:Thread#0:B:When the user clicks on Blog post by date 'July 2015'
+2019-11-27T13:14:28.4063606+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("July 2015") (2.5s)
+2019-11-27T13:14:28.4073595+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:14:36.7596433+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:14:36.7606427+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:14:36.7626411+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:14:36.7626411+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '3'
+2019-11-27T13:14:36.7856339+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("3") (0.0s)
+2019-11-27T13:14:36.7866285+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:14:36.8715933+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:14:36.8725802+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:14:36.8725802+00:00:Thread#:Scheduler: testitem #20 from normal test queue 
+2019-11-27T13:14:36.8725802+00:00:Thread#0:Scheduler: considering testitem #20 for thread 0
+2019-11-27T13:14:36.8725802+00:00:Thread#0:TestItem#20:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:14:36.8725802+00:00:Thread#0:TestItem#20:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:14:36.8725802+00:00:Thread#0:TestItem#20:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:14:36.8725802+00:00:Thread#0:Scheduler: using testitem #20 for thread 0
+2019-11-27T13:14:36.8725802+00:00:Thread#0:Scheduler: Test #20 is scheduled for thread
+2019-11-27T13:14:36.8725802+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:14:36.8735789+00:00:Thread#0: Test #19/0 is finished on thread #0 as Succeeded within 15.8237886 seconds
+2019-11-27T13:14:36.8735789+00:00:Thread#0: Test #20/0 is started on thread #0
+2019-11-27T13:14:36.8745792+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:14:41.7295414+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.9s)
+2019-11-27T13:14:41.7295414+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:14:41.7335390+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:14:41.7345375+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:14:41.9244291+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:14:41.9244291+00:00:Thread#0:B:When the user clicks on Blog post by date 'April 2015'
+2019-11-27T13:14:44.4756371+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("April 2015") (2.6s)
+2019-11-27T13:14:44.4766343+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:14:52.8709388+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:14:52.8709388+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:14:52.8729368+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:14:52.8729368+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:14:52.8839337+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:14:52.8839337+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:14:52.9638861+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:14:52.9638861+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:14:52.9638861+00:00:Thread#:Scheduler: testitem #21 from normal test queue 
+2019-11-27T13:14:52.9638861+00:00:Thread#0:Scheduler: considering testitem #21 for thread 0
+2019-11-27T13:14:52.9638861+00:00:Thread#0:TestItem#21:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:14:52.9638861+00:00:Thread#0:TestItem#21:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:14:52.9638861+00:00:Thread#0:TestItem#21:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:14:52.9638861+00:00:Thread#0:Scheduler: using testitem #21 for thread 0
+2019-11-27T13:14:52.9638861+00:00:Thread#0:Scheduler: Test #21 is scheduled for thread
+2019-11-27T13:14:52.9638861+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:14:52.9648861+00:00:Thread#0: Test #20/0 is finished on thread #0 as Succeeded within 16.0903069 seconds
+2019-11-27T13:14:52.9658855+00:00:Thread#0: Test #21/0 is started on thread #0
+2019-11-27T13:14:52.9658855+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:14:57.6480564+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:14:57.6490571+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:14:57.6630477+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:14:57.6630477+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:14:57.7529974+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:14:57.7529974+00:00:Thread#0:B:When the user clicks on Blog post by date 'March 2015'
+2019-11-27T13:15:00.2430594+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("March 2015") (2.5s)
+2019-11-27T13:15:00.2440578+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:15:08.6553918+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:15:08.6553918+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:15:08.6583897+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:15:08.6583897+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '3'
+2019-11-27T13:15:08.6723933+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("3") (0.0s)
+2019-11-27T13:15:08.6723933+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:15:08.7463399+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:15:08.7463399+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:15:08.7463399+00:00:Thread#:Scheduler: testitem #22 from normal test queue 
+2019-11-27T13:15:08.7463399+00:00:Thread#0:Scheduler: considering testitem #22 for thread 0
+2019-11-27T13:15:08.7463399+00:00:Thread#0:TestItem#22:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:15:08.7463399+00:00:Thread#0:TestItem#22:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:15:08.7463399+00:00:Thread#0:TestItem#22:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:15:08.7463399+00:00:Thread#0:Scheduler: using testitem #22 for thread 0
+2019-11-27T13:15:08.7463399+00:00:Thread#0:Scheduler: Test #22 is scheduled for thread
+2019-11-27T13:15:08.7463399+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:15:08.7483386+00:00:Thread#0: Test #21/0 is finished on thread #0 as Succeeded within 15.7824531 seconds
+2019-11-27T13:15:08.7483386+00:00:Thread#0: Test #22/0 is started on thread #0
+2019-11-27T13:15:08.7483386+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:15:13.5133360+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:15:13.5133360+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:15:13.5263265+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:15:13.5263265+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:15:13.7412037+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:15:13.7412037+00:00:Thread#0:B:When the user clicks on Blog post by date 'February 2015'
+2019-11-27T13:15:16.2453629+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("February 2015") (2.5s)
+2019-11-27T13:15:16.2453629+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:15:24.6155329+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:15:24.6165319+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:15:24.6205283+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:15:24.6205283+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:15:24.6365186+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:15:24.6365186+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:15:24.7154781+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:15:24.7154781+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:15:24.7154781+00:00:Thread#:Scheduler: testitem #23 from normal test queue 
+2019-11-27T13:15:24.7154781+00:00:Thread#0:Scheduler: considering testitem #23 for thread 0
+2019-11-27T13:15:24.7154781+00:00:Thread#0:TestItem#23:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:15:24.7154781+00:00:Thread#0:TestItem#23:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:15:24.7154781+00:00:Thread#0:TestItem#23:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:15:24.7164732+00:00:Thread#0:Scheduler: using testitem #23 for thread 0
+2019-11-27T13:15:24.7164732+00:00:Thread#0:Scheduler: Test #23 is scheduled for thread
+2019-11-27T13:15:24.7164732+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:15:24.7174726+00:00:Thread#0: Test #22/0 is finished on thread #0 as Succeeded within 15.969134 seconds
+2019-11-27T13:15:24.7174726+00:00:Thread#0: Test #23/0 is started on thread #0
+2019-11-27T13:15:24.7184718+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:15:29.4979323+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:15:29.4979323+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:15:29.5039296+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:15:29.5039296+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:15:29.7367964+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:15:29.7377962+00:00:Thread#0:B:When the user clicks on Blog post by date 'December 2014'
+2019-11-27T13:15:32.4339668+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("December 2014") (2.7s)
+2019-11-27T13:15:32.4349672+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:15:40.8197122+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:15:40.8197122+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:15:40.8227078+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:15:40.8227078+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:15:40.8356996+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:15:40.8356996+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:15:40.9086585+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:15:40.9086585+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:15:40.9086585+00:00:Thread#:Scheduler: testitem #24 from normal test queue 
+2019-11-27T13:15:40.9086585+00:00:Thread#0:Scheduler: considering testitem #24 for thread 0
+2019-11-27T13:15:40.9086585+00:00:Thread#0:TestItem#24:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:15:40.9086585+00:00:Thread#0:TestItem#24:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:15:40.9086585+00:00:Thread#0:TestItem#24:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:15:40.9086585+00:00:Thread#0:Scheduler: using testitem #24 for thread 0
+2019-11-27T13:15:40.9086585+00:00:Thread#0:Scheduler: Test #24 is scheduled for thread
+2019-11-27T13:15:40.9086585+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:15:40.9096569+00:00:Thread#0: Test #23/0 is finished on thread #0 as Succeeded within 16.1921843 seconds
+2019-11-27T13:15:40.9106573+00:00:Thread#0: Test #24/0 is started on thread #0
+2019-11-27T13:15:40.9106573+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:15:45.6615855+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:15:45.6615855+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:15:45.6725802+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:15:45.6725802+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:15:45.7725218+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:15:45.7735214+00:00:Thread#0:B:When the user clicks on Blog post by date 'October 2014'
+2019-11-27T13:15:48.3154524+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("October 2014") (2.5s)
+2019-11-27T13:15:48.3154524+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:15:56.7279060+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:15:56.7288887+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:15:56.7318844+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:15:56.7318844+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:15:56.7378793+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:15:56.7378793+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:15:56.8228503+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:15:56.8228503+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:15:56.8228503+00:00:Thread#:Scheduler: testitem #25 from normal test queue 
+2019-11-27T13:15:56.8228503+00:00:Thread#0:Scheduler: considering testitem #25 for thread 0
+2019-11-27T13:15:56.8228503+00:00:Thread#0:TestItem#25:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:15:56.8228503+00:00:Thread#0:TestItem#25:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:15:56.8228503+00:00:Thread#0:TestItem#25:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:15:56.8238297+00:00:Thread#0:Scheduler: using testitem #25 for thread 0
+2019-11-27T13:15:56.8238297+00:00:Thread#0:Scheduler: Test #25 is scheduled for thread
+2019-11-27T13:15:56.8238297+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:15:56.8248284+00:00:Thread#0: Test #24/0 is finished on thread #0 as Succeeded within 15.9141711 seconds
+2019-11-27T13:15:56.8248284+00:00:Thread#0: Test #25/0 is started on thread #0
+2019-11-27T13:15:56.8258296+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:16:01.4069091+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.6s)
+2019-11-27T13:16:01.4069091+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:16:01.4748706+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.1s)
+2019-11-27T13:16:01.4748706+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:16:01.5448299+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:16:01.5448299+00:00:Thread#0:B:When the user clicks on Blog post by date 'September 2014'
+2019-11-27T13:16:04.4701972+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("September 2014") (2.9s)
+2019-11-27T13:16:04.4701972+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:16:12.8353190+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:16:12.8353190+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:16:12.8373162+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:16:12.8373162+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:16:12.8533255+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:16:12.8533255+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:16:12.9542482+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:16:12.9542482+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:16:12.9542482+00:00:Thread#:Scheduler: testitem #26 from normal test queue 
+2019-11-27T13:16:12.9542482+00:00:Thread#0:Scheduler: considering testitem #26 for thread 0
+2019-11-27T13:16:12.9542482+00:00:Thread#0:TestItem#26:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:16:12.9542482+00:00:Thread#0:TestItem#26:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:16:12.9542482+00:00:Thread#0:TestItem#26:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:16:12.9542482+00:00:Thread#0:Scheduler: using testitem #26 for thread 0
+2019-11-27T13:16:12.9542482+00:00:Thread#0:Scheduler: Test #26 is scheduled for thread
+2019-11-27T13:16:12.9542482+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:16:12.9562458+00:00:Thread#0: Test #25/0 is finished on thread #0 as Succeeded within 16.1314174 seconds
+2019-11-27T13:16:12.9602447+00:00:Thread#0: Test #26/0 is started on thread #0
+2019-11-27T13:16:12.9612469+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:16:17.9551623+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (5.0s)
+2019-11-27T13:16:17.9551623+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:16:17.9621603+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:16:17.9621603+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:16:18.1050777+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:16:18.1050777+00:00:Thread#0:B:When the user clicks on Blog post by date 'August 2014'
+2019-11-27T13:16:20.6007026+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("August 2014") (2.5s)
+2019-11-27T13:16:20.6007026+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:16:28.9352408+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:16:28.9352408+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:16:28.9372402+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:16:28.9382519+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:16:28.9442360+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:16:28.9442360+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:16:29.0121966+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:16:29.0121966+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:16:29.0121966+00:00:Thread#:Scheduler: testitem #27 from normal test queue 
+2019-11-27T13:16:29.0121966+00:00:Thread#0:Scheduler: considering testitem #27 for thread 0
+2019-11-27T13:16:29.0121966+00:00:Thread#0:TestItem#27:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:16:29.0121966+00:00:Thread#0:TestItem#27:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:16:29.0121966+00:00:Thread#0:TestItem#27:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:16:29.0121966+00:00:Thread#0:Scheduler: using testitem #27 for thread 0
+2019-11-27T13:16:29.0121966+00:00:Thread#0:Scheduler: Test #27 is scheduled for thread
+2019-11-27T13:16:29.0121966+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:16:29.0141954+00:00:Thread#0: Test #26/0 is finished on thread #0 as Succeeded within 16.0539507 seconds
+2019-11-27T13:16:29.0141954+00:00:Thread#0: Test #27/0 is started on thread #0
+2019-11-27T13:16:29.0141954+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:16:33.7053780+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:16:33.7063772+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:16:33.7103756+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:16:33.7103756+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:16:33.8063202+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:16:33.8073194+00:00:Thread#0:B:When the user clicks on Blog post by date 'April 2014'
+2019-11-27T13:16:36.2693203+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("April 2014") (2.5s)
+2019-11-27T13:16:36.2703242+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:16:44.7000697+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:16:44.7000697+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:16:44.7030686+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:16:44.7030686+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:16:44.7110633+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:16:44.7120628+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:16:44.7770262+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:16:44.7780251+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:16:44.7780251+00:00:Thread#:Scheduler: testitem #28 from normal test queue 
+2019-11-27T13:16:44.7780251+00:00:Thread#0:Scheduler: considering testitem #28 for thread 0
+2019-11-27T13:16:44.7780251+00:00:Thread#0:TestItem#28:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:16:44.7780251+00:00:Thread#0:TestItem#28:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:16:44.7780251+00:00:Thread#0:TestItem#28:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:16:44.7780251+00:00:Thread#0:Scheduler: using testitem #28 for thread 0
+2019-11-27T13:16:44.7780251+00:00:Thread#0:Scheduler: Test #28 is scheduled for thread
+2019-11-27T13:16:44.7780251+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:16:44.7790247+00:00:Thread#0: Test #27/0 is finished on thread #0 as Succeeded within 15.7648293 seconds
+2019-11-27T13:16:44.7790247+00:00:Thread#0: Test #28/0 is started on thread #0
+2019-11-27T13:16:44.7800237+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:16:49.6437287+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.9s)
+2019-11-27T13:16:49.6447284+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:16:49.6487245+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:16:49.6487245+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:16:49.6936976+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.0s)
+2019-11-27T13:16:49.6936976+00:00:Thread#0:B:When the user clicks on Blog post by date 'March 2014'
+2019-11-27T13:16:52.0920772+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("March 2014") (2.4s)
+2019-11-27T13:16:52.0920772+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:17:00.5387834+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:17:00.5387834+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:17:00.5417822+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:17:00.5417822+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:17:00.5487782+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:17:00.5487782+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:17:00.6107423+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:17:00.6107423+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:17:00.6107423+00:00:Thread#:Scheduler: testitem #29 from normal test queue 
+2019-11-27T13:17:00.6107423+00:00:Thread#0:Scheduler: considering testitem #29 for thread 0
+2019-11-27T13:17:00.6117428+00:00:Thread#0:TestItem#29:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:17:00.6117428+00:00:Thread#0:TestItem#29:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:17:00.6117428+00:00:Thread#0:TestItem#29:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:17:00.6117428+00:00:Thread#0:Scheduler: using testitem #29 for thread 0
+2019-11-27T13:17:00.6117428+00:00:Thread#0:Scheduler: Test #29 is scheduled for thread
+2019-11-27T13:17:00.6117428+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:17:00.6127428+00:00:Thread#0: Test #28/0 is finished on thread #0 as Succeeded within 15.8337181 seconds
+2019-11-27T13:17:00.6127428+00:00:Thread#0: Test #29/0 is started on thread #0
+2019-11-27T13:17:00.6137419+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:17:05.5304689+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.9s)
+2019-11-27T13:17:05.5304689+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:17:05.5344674+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:17:05.5354662+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:17:05.5894351+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:17:05.5894351+00:00:Thread#0:B:When the user clicks on Blog post by date 'February 2014'
+2019-11-27T13:17:08.2106174+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("February 2014") (2.6s)
+2019-11-27T13:17:08.2106174+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:17:16.5454946+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:17:16.5454946+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:17:16.5474887+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:17:16.5474887+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:17:16.5524696+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:17:16.5524696+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:17:16.6494148+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:17:16.6494148+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:17:16.6494148+00:00:Thread#:Scheduler: testitem #30 from normal test queue 
+2019-11-27T13:17:16.6494148+00:00:Thread#0:Scheduler: considering testitem #30 for thread 0
+2019-11-27T13:17:16.6494148+00:00:Thread#0:TestItem#30:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:17:16.6494148+00:00:Thread#0:TestItem#30:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:17:16.6494148+00:00:Thread#0:TestItem#30:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:17:16.6494148+00:00:Thread#0:Scheduler: using testitem #30 for thread 0
+2019-11-27T13:17:16.6504136+00:00:Thread#0:Scheduler: Test #30 is scheduled for thread
+2019-11-27T13:17:16.6504136+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:17:16.6504136+00:00:Thread#0: Test #29/0 is finished on thread #0 as Succeeded within 16.0376708 seconds
+2019-11-27T13:17:16.6504136+00:00:Thread#0: Test #30/0 is started on thread #0
+2019-11-27T13:17:16.6514130+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:17:21.2899188+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.6s)
+2019-11-27T13:17:21.2899188+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:17:21.2989142+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:17:21.2989142+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:17:21.3608792+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:17:21.3608792+00:00:Thread#0:B:When the user clicks on Blog post by date 'August 2013'
+2019-11-27T13:17:23.8113663+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("August 2013") (2.5s)
+2019-11-27T13:17:23.8113663+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:17:32.1659189+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:17:32.1669186+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:17:32.1689186+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:17:32.1689186+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '3'
+2019-11-27T13:17:32.1749145+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("3") (0.0s)
+2019-11-27T13:17:32.1749145+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:17:32.2448740+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:17:32.2448740+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:17:32.2448740+00:00:Thread#:Scheduler: testitem #31 from normal test queue 
+2019-11-27T13:17:32.2448740+00:00:Thread#0:Scheduler: considering testitem #31 for thread 0
+2019-11-27T13:17:32.2448740+00:00:Thread#0:TestItem#31:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:17:32.2448740+00:00:Thread#0:TestItem#31:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:17:32.2448740+00:00:Thread#0:TestItem#31:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:17:32.2458728+00:00:Thread#0:Scheduler: using testitem #31 for thread 0
+2019-11-27T13:17:32.2458728+00:00:Thread#0:Scheduler: Test #31 is scheduled for thread
+2019-11-27T13:17:32.2458728+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:17:32.2458728+00:00:Thread#0: Test #30/0 is finished on thread #0 as Succeeded within 15.5944598 seconds
+2019-11-27T13:17:32.2468718+00:00:Thread#0: Test #31/0 is started on thread #0
+2019-11-27T13:17:32.2468718+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:17:36.7693506+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.5s)
+2019-11-27T13:17:36.7703485+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:17:36.7793445+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:17:36.7793445+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:17:36.9772302+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:17:36.9782303+00:00:Thread#0:B:When the user clicks on Blog post by date 'July 2013'
+2019-11-27T13:17:39.5606849+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("July 2013") (2.6s)
+2019-11-27T13:17:39.5606849+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:17:47.9114697+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:17:47.9114697+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:17:47.9144817+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:17:47.9144817+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '5'
+2019-11-27T13:17:47.9234603+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("5") (0.0s)
+2019-11-27T13:17:47.9234603+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:17:48.0264025+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:17:48.0264025+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:17:48.0264025+00:00:Thread#:Scheduler: testitem #32 from normal test queue 
+2019-11-27T13:17:48.0264025+00:00:Thread#0:Scheduler: considering testitem #32 for thread 0
+2019-11-27T13:17:48.0264025+00:00:Thread#0:TestItem#32:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:17:48.0264025+00:00:Thread#0:TestItem#32:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:17:48.0264025+00:00:Thread#0:TestItem#32:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:17:48.0264025+00:00:Thread#0:Scheduler: using testitem #32 for thread 0
+2019-11-27T13:17:48.0264025+00:00:Thread#0:Scheduler: Test #32 is scheduled for thread
+2019-11-27T13:17:48.0264025+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:17:48.0274004+00:00:Thread#0: Test #31/0 is finished on thread #0 as Succeeded within 15.7805286 seconds
+2019-11-27T13:17:48.0274004+00:00:Thread#0: Test #32/0 is started on thread #0
+2019-11-27T13:17:48.0284014+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:17:52.5609798+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.5s)
+2019-11-27T13:17:52.5609798+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:17:52.5639765+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:17:52.5639765+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:17:52.6189446+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:17:52.6189446+00:00:Thread#0:B:When the user clicks on Blog post by date 'June 2013'
+2019-11-27T13:17:55.0838907+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("June 2013") (2.5s)
+2019-11-27T13:17:55.0838907+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:18:03.5389438+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.5s)
+2019-11-27T13:18:03.5389438+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:18:03.5419430+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:18:03.5419430+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:18:03.5509352+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:18:03.5509352+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:18:03.6148994+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:18:03.6148994+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:18:03.6148994+00:00:Thread#:Scheduler: testitem #33 from normal test queue 
+2019-11-27T13:18:03.6148994+00:00:Thread#0:Scheduler: considering testitem #33 for thread 0
+2019-11-27T13:18:03.6159001+00:00:Thread#0:TestItem#33:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:18:03.6159001+00:00:Thread#0:TestItem#33:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:18:03.6159001+00:00:Thread#0:TestItem#33:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:18:03.6159001+00:00:Thread#0:Scheduler: using testitem #33 for thread 0
+2019-11-27T13:18:03.6159001+00:00:Thread#0:Scheduler: Test #33 is scheduled for thread
+2019-11-27T13:18:03.6159001+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:18:03.6169015+00:00:Thread#0: Test #32/0 is finished on thread #0 as Succeeded within 15.5895011 seconds
+2019-11-27T13:18:03.6169015+00:00:Thread#0: Test #33/0 is started on thread #0
+2019-11-27T13:18:03.6178973+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:18:08.0991509+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.5s)
+2019-11-27T13:18:08.0991509+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:18:08.1041493+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:18:08.1041493+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:18:08.2030914+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:18:08.2030914+00:00:Thread#0:B:When the user clicks on Blog post by date 'April 2013'
+2019-11-27T13:18:10.7397756+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("April 2013") (2.5s)
+2019-11-27T13:18:10.7407801+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:18:19.0997049+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:18:19.0997049+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:18:19.1037019+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:18:19.1037019+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '5'
+2019-11-27T13:18:19.1107189+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("5") (0.0s)
+2019-11-27T13:18:19.1117017+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:18:19.2066440+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:18:19.2066440+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:18:19.2066440+00:00:Thread#:Scheduler: testitem #34 from normal test queue 
+2019-11-27T13:18:19.2066440+00:00:Thread#0:Scheduler: considering testitem #34 for thread 0
+2019-11-27T13:18:19.2066440+00:00:Thread#0:TestItem#34:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:18:19.2066440+00:00:Thread#0:TestItem#34:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:18:19.2066440+00:00:Thread#0:TestItem#34:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:18:19.2066440+00:00:Thread#0:Scheduler: using testitem #34 for thread 0
+2019-11-27T13:18:19.2066440+00:00:Thread#0:Scheduler: Test #34 is scheduled for thread
+2019-11-27T13:18:19.2066440+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:18:19.2076426+00:00:Thread#0: Test #33/0 is finished on thread #0 as Succeeded within 15.5897453 seconds
+2019-11-27T13:18:19.2076426+00:00:Thread#0: Test #34/0 is started on thread #0
+2019-11-27T13:18:19.2076426+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:18:23.9936826+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:18:23.9936826+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:18:23.9976808+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:18:23.9976808+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:18:24.0506497+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:18:24.0506497+00:00:Thread#0:B:When the user clicks on Blog post by date 'March 2013'
+2019-11-27T13:18:26.5314959+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("March 2013") (2.5s)
+2019-11-27T13:18:26.5324953+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:18:34.8879670+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:18:34.8879670+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:18:34.8899661+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:18:34.8909810+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '6'
+2019-11-27T13:18:34.8969831+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("6") (0.0s)
+2019-11-27T13:18:34.8979610+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:18:34.9879100+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:18:34.9879100+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:18:34.9879100+00:00:Thread#:Scheduler: testitem #35 from normal test queue 
+2019-11-27T13:18:34.9879100+00:00:Thread#0:Scheduler: considering testitem #35 for thread 0
+2019-11-27T13:18:34.9879100+00:00:Thread#0:TestItem#35:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:18:34.9879100+00:00:Thread#0:TestItem#35:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:18:34.9879100+00:00:Thread#0:TestItem#35:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:18:34.9879100+00:00:Thread#0:Scheduler: using testitem #35 for thread 0
+2019-11-27T13:18:34.9879100+00:00:Thread#0:Scheduler: Test #35 is scheduled for thread
+2019-11-27T13:18:34.9879100+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:18:34.9899091+00:00:Thread#0: Test #34/0 is finished on thread #0 as Succeeded within 15.7812671 seconds
+2019-11-27T13:18:34.9899091+00:00:Thread#0: Test #35/0 is started on thread #0
+2019-11-27T13:18:34.9899091+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:18:39.4369179+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.4s)
+2019-11-27T13:18:39.4369179+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:18:39.4449131+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:18:39.4449131+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:18:39.5938296+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:18:39.5938296+00:00:Thread#0:B:When the user clicks on Blog post by date 'February 2013'
+2019-11-27T13:18:42.0781207+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("February 2013") (2.5s)
+2019-11-27T13:18:42.0781207+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:18:50.4271807+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.3s)
+2019-11-27T13:18:50.4281795+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:18:50.4311768+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:18:50.4311768+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '8'
+2019-11-27T13:18:50.4471690+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("8") (0.0s)
+2019-11-27T13:18:50.4481683+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:18:50.5211262+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:18:50.5211262+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:18:50.5211262+00:00:Thread#:Scheduler: testitem #36 from normal test queue 
+2019-11-27T13:18:50.5211262+00:00:Thread#0:Scheduler: considering testitem #36 for thread 0
+2019-11-27T13:18:50.5211262+00:00:Thread#0:TestItem#36:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:18:50.5211262+00:00:Thread#0:TestItem#36:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:18:50.5211262+00:00:Thread#0:TestItem#36:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:18:50.5211262+00:00:Thread#0:Scheduler: using testitem #36 for thread 0
+2019-11-27T13:18:50.5211262+00:00:Thread#0:Scheduler: Test #36 is scheduled for thread
+2019-11-27T13:18:50.5211262+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:18:50.5231246+00:00:Thread#0: Test #35/0 is finished on thread #0 as Succeeded within 15.5332155 seconds
+2019-11-27T13:18:50.5231246+00:00:Thread#0: Test #36/0 is started on thread #0
+2019-11-27T13:18:50.5241248+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:18:54.6851489+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.2s)
+2019-11-27T13:18:54.6861495+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:18:54.6911468+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:18:54.6911468+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:18:54.9519967+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.3s)
+2019-11-27T13:18:54.9519967+00:00:Thread#0:B:When the user clicks on Blog post by date 'January 2013'
+2019-11-27T13:18:57.5837864+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("January 2013") (2.6s)
+2019-11-27T13:18:57.5847864+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:19:05.9999026+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:19:05.9999026+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:19:06.0019043+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:19:06.0019043+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '4'
+2019-11-27T13:19:06.0078979+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("4") (0.0s)
+2019-11-27T13:19:06.0078979+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:19:06.0738636+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:19:06.0738636+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:19:06.0738636+00:00:Thread#:Scheduler: testitem #37 from normal test queue 
+2019-11-27T13:19:06.0738636+00:00:Thread#0:Scheduler: considering testitem #37 for thread 0
+2019-11-27T13:19:06.0738636+00:00:Thread#0:TestItem#37:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:19:06.0738636+00:00:Thread#0:TestItem#37:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:19:06.0738636+00:00:Thread#0:TestItem#37:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:19:06.0738636+00:00:Thread#0:Scheduler: using testitem #37 for thread 0
+2019-11-27T13:19:06.0738636+00:00:Thread#0:Scheduler: Test #37 is scheduled for thread
+2019-11-27T13:19:06.0738636+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:19:06.0748625+00:00:Thread#0: Test #36/0 is finished on thread #0 as Succeeded within 15.5517379 seconds
+2019-11-27T13:19:06.0758598+00:00:Thread#0: Test #37/0 is started on thread #0
+2019-11-27T13:19:06.0758598+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:19:10.6418010+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.6s)
+2019-11-27T13:19:10.6427994+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:19:10.6447981+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:19:10.6447981+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:19:10.7677287+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:19:10.7687272+00:00:Thread#0:B:When the user clicks on Blog post by date 'December 2012'
+2019-11-27T13:19:13.3762344+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("December 2012") (2.6s)
+2019-11-27T13:19:13.3762344+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:19:21.7552339+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:19:21.7552339+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:19:21.7612315+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:19:21.7622294+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:19:21.7822190+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:19:21.7822190+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:19:21.8551766+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:19:21.8551766+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:19:21.8551766+00:00:Thread#:Scheduler: testitem #38 from normal test queue 
+2019-11-27T13:19:21.8551766+00:00:Thread#0:Scheduler: considering testitem #38 for thread 0
+2019-11-27T13:19:21.8551766+00:00:Thread#0:TestItem#38:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:19:21.8561761+00:00:Thread#0:TestItem#38:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:19:21.8561761+00:00:Thread#0:TestItem#38:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:19:21.8561761+00:00:Thread#0:Scheduler: using testitem #38 for thread 0
+2019-11-27T13:19:21.8561761+00:00:Thread#0:Scheduler: Test #38 is scheduled for thread
+2019-11-27T13:19:21.8561761+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:19:21.8571747+00:00:Thread#0: Test #37/0 is finished on thread #0 as Succeeded within 15.7813149 seconds
+2019-11-27T13:19:21.8571747+00:00:Thread#0: Test #38/0 is started on thread #0
+2019-11-27T13:19:21.8581746+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:19:26.3541708+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.5s)
+2019-11-27T13:19:26.3541708+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:19:26.3571696+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:19:26.3571696+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:19:26.5020856+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:19:26.5020856+00:00:Thread#0:B:When the user clicks on Blog post by date 'November 2012'
+2019-11-27T13:19:29.1739325+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("November 2012") (2.7s)
+2019-11-27T13:19:29.1739325+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:19:37.5388164+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:19:37.5398157+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:19:37.5418170+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:19:37.5418170+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:19:37.5498104+00:00:Thread#0:T:Number of articles are not matching with Expected Result
+2019-11-27T13:19:37.5498104+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:19:37.5498104+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:19:37.6577481+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:19:37.6587479+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:19:37.6587479+00:00:Thread#:Scheduler: testitem #39 from normal test queue 
+2019-11-27T13:19:37.6587479+00:00:Thread#0:Scheduler: considering testitem #39 for thread 0
+2019-11-27T13:19:37.6587479+00:00:Thread#0:TestItem#39:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:19:37.6587479+00:00:Thread#0:TestItem#39:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:19:37.6587479+00:00:Thread#0:TestItem#39:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:19:37.6587479+00:00:Thread#0:Scheduler: using testitem #39 for thread 0
+2019-11-27T13:19:37.6587479+00:00:Thread#0:Scheduler: Test #39 is scheduled for thread
+2019-11-27T13:19:37.6587479+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:19:37.6607461+00:00:Thread#0: Test #38/0 is finished on thread #0 as Succeeded within 15.8025719 seconds
+2019-11-27T13:19:37.6607461+00:00:Thread#0: Test #39/0 is started on thread #0
+2019-11-27T13:19:37.6617458+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:19:42.1261877+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.5s)
+2019-11-27T13:19:42.1261877+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:19:42.1321859+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:19:42.1321859+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:19:42.1881531+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:19:42.1881531+00:00:Thread#0:B:When the user clicks on Blog post by date 'October 2012'
+2019-11-27T13:19:44.6595456+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("October 2012") (2.5s)
+2019-11-27T13:19:44.6605419+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:19:53.0801931+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:19:53.0801931+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:19:53.0832013+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:19:53.0832013+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '6'
+2019-11-27T13:19:53.0951746+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("6") (0.0s)
+2019-11-27T13:19:53.0951746+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:19:53.1601365+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:19:53.1601365+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:19:53.1601365+00:00:Thread#:Scheduler: testitem #40 from normal test queue 
+2019-11-27T13:19:53.1601365+00:00:Thread#0:Scheduler: considering testitem #40 for thread 0
+2019-11-27T13:19:53.1601365+00:00:Thread#0:TestItem#40:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:19:53.1601365+00:00:Thread#0:TestItem#40:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:19:53.1601365+00:00:Thread#0:TestItem#40:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:19:53.1601365+00:00:Thread#0:Scheduler: using testitem #40 for thread 0
+2019-11-27T13:19:53.1601365+00:00:Thread#0:Scheduler: Test #40 is scheduled for thread
+2019-11-27T13:19:53.1601365+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:19:53.1621355+00:00:Thread#0: Test #39/0 is finished on thread #0 as Succeeded within 15.5013894 seconds
+2019-11-27T13:19:53.1621355+00:00:Thread#0: Test #40/0 is started on thread #0
+2019-11-27T13:19:53.1631347+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:19:57.6637835+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.5s)
+2019-11-27T13:19:57.6637835+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:19:57.6847703+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:19:57.6847703+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:19:57.8047036+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:19:57.8047036+00:00:Thread#0:B:When the user clicks on Blog post by date 'September 2012'
+2019-11-27T13:20:00.2358404+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("September 2012") (2.4s)
+2019-11-27T13:20:00.2368398+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:20:08.6062079+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:20:08.6072018+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:20:08.6111984+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:20:08.6111984+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '6'
+2019-11-27T13:20:08.6221915+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("6") (0.0s)
+2019-11-27T13:20:08.6221915+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:20:08.7321292+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:20:08.7321292+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:20:08.7321292+00:00:Thread#:Scheduler: testitem #41 from normal test queue 
+2019-11-27T13:20:08.7321292+00:00:Thread#0:Scheduler: considering testitem #41 for thread 0
+2019-11-27T13:20:08.7321292+00:00:Thread#0:TestItem#41:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:20:08.7321292+00:00:Thread#0:TestItem#41:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:20:08.7321292+00:00:Thread#0:TestItem#41:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:20:08.7321292+00:00:Thread#0:Scheduler: using testitem #41 for thread 0
+2019-11-27T13:20:08.7321292+00:00:Thread#0:Scheduler: Test #41 is scheduled for thread
+2019-11-27T13:20:08.7321292+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:20:08.7341273+00:00:Thread#0: Test #40/0 is finished on thread #0 as Succeeded within 15.5709932 seconds
+2019-11-27T13:20:08.7341273+00:00:Thread#0: Test #41/0 is started on thread #0
+2019-11-27T13:20:08.7341273+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:20:13.3881325+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:20:13.3881325+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:20:13.4001259+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:20:13.4001259+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:20:13.6120040+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:20:13.6120040+00:00:Thread#0:B:When the user clicks on Blog post by date 'August 2012'
+2019-11-27T13:20:16.1885125+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("August 2012") (2.6s)
+2019-11-27T13:20:16.1885125+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:20:24.5585000+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:20:24.5595012+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:20:24.5654959+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:20:24.5654959+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '7'
+2019-11-27T13:20:24.5854860+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("7") (0.0s)
+2019-11-27T13:20:24.5854860+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:20:24.6864272+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:20:24.6864272+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:20:24.6864272+00:00:Thread#:Scheduler: testitem #42 from normal test queue 
+2019-11-27T13:20:24.6864272+00:00:Thread#0:Scheduler: considering testitem #42 for thread 0
+2019-11-27T13:20:24.6864272+00:00:Thread#0:TestItem#42:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:20:24.6864272+00:00:Thread#0:TestItem#42:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:20:24.6864272+00:00:Thread#0:TestItem#42:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:20:24.6864272+00:00:Thread#0:Scheduler: using testitem #42 for thread 0
+2019-11-27T13:20:24.6864272+00:00:Thread#0:Scheduler: Test #42 is scheduled for thread
+2019-11-27T13:20:24.6864272+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:20:24.6884265+00:00:Thread#0: Test #41/0 is finished on thread #0 as Succeeded within 15.9542992 seconds
+2019-11-27T13:20:24.6884265+00:00:Thread#0: Test #42/0 is started on thread #0
+2019-11-27T13:20:24.6894252+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:20:29.1978234+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.5s)
+2019-11-27T13:20:29.1978234+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:20:29.2008239+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:20:29.2018210+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:20:29.3047626+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:20:29.3047626+00:00:Thread#0:B:When the user clicks on Blog post by date 'July 2012'
+2019-11-27T13:20:31.8206111+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("July 2012") (2.5s)
+2019-11-27T13:20:31.8206111+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:20:40.8398461+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (9.0s)
+2019-11-27T13:20:40.8398461+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:20:40.8418477+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:20:40.8428449+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '4'
+2019-11-27T13:20:40.8508401+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("4") (0.0s)
+2019-11-27T13:20:40.8508401+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:20:40.9727704+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:20:40.9727704+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:20:40.9727704+00:00:Thread#:Scheduler: testitem #43 from normal test queue 
+2019-11-27T13:20:40.9727704+00:00:Thread#0:Scheduler: considering testitem #43 for thread 0
+2019-11-27T13:20:40.9727704+00:00:Thread#0:TestItem#43:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:20:40.9727704+00:00:Thread#0:TestItem#43:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:20:40.9727704+00:00:Thread#0:TestItem#43:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:20:40.9727704+00:00:Thread#0:Scheduler: using testitem #43 for thread 0
+2019-11-27T13:20:40.9727704+00:00:Thread#0:Scheduler: Test #43 is scheduled for thread
+2019-11-27T13:20:40.9727704+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:20:40.9737705+00:00:Thread#0: Test #42/0 is finished on thread #0 as Succeeded within 16.285344 seconds
+2019-11-27T13:20:40.9747693+00:00:Thread#0: Test #43/0 is started on thread #0
+2019-11-27T13:20:40.9747693+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:20:50.7068526+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (9.7s)
+2019-11-27T13:20:50.7078523+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:20:50.7138476+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:20:50.7138476+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:20:51.1176171+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.4s)
+2019-11-27T13:20:51.1186161+00:00:Thread#0:B:When the user clicks on Blog post by date 'June 2012'
+2019-11-27T13:20:53.8278426+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("June 2012") (2.7s)
+2019-11-27T13:20:53.8288400+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:21:02.2720706+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:21:02.2720706+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:21:02.2750699+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:21:02.2750699+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:21:02.2820650+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:21:02.2820650+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:21:02.3540244+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:21:02.3550234+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:21:02.3550234+00:00:Thread#:Scheduler: testitem #44 from normal test queue 
+2019-11-27T13:21:02.3550234+00:00:Thread#0:Scheduler: considering testitem #44 for thread 0
+2019-11-27T13:21:02.3550234+00:00:Thread#0:TestItem#44:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:21:02.3550234+00:00:Thread#0:TestItem#44:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:21:02.3550234+00:00:Thread#0:TestItem#44:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:21:02.3550234+00:00:Thread#0:Scheduler: using testitem #44 for thread 0
+2019-11-27T13:21:02.3550234+00:00:Thread#0:Scheduler: Test #44 is scheduled for thread
+2019-11-27T13:21:02.3550234+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:21:02.3570214+00:00:Thread#0: Test #43/0 is finished on thread #0 as Succeeded within 21.3822521 seconds
+2019-11-27T13:21:02.3590278+00:00:Thread#0: Test #44/0 is started on thread #0
+2019-11-27T13:21:02.3600207+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:21:07.4470929+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (5.1s)
+2019-11-27T13:21:07.4480925+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:21:07.4590855+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:21:07.4600852+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:21:07.7839003+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.3s)
+2019-11-27T13:21:07.7849004+00:00:Thread#0:B:When the user clicks on Blog post by date 'May 2012'
+2019-11-27T13:21:10.5829899+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("May 2012") (2.8s)
+2019-11-27T13:21:10.5829899+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:21:18.9420328+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:21:18.9430166+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:21:18.9450321+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:21:18.9460124+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '1'
+2019-11-27T13:21:18.9590027+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("1") (0.0s)
+2019-11-27T13:21:18.9590027+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:21:19.0339595+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:21:19.0339595+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:21:19.0339595+00:00:Thread#:Scheduler: testitem #45 from normal test queue 
+2019-11-27T13:21:19.0339595+00:00:Thread#0:Scheduler: considering testitem #45 for thread 0
+2019-11-27T13:21:19.0339595+00:00:Thread#0:TestItem#45:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:21:19.0339595+00:00:Thread#0:TestItem#45:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:21:19.0339595+00:00:Thread#0:TestItem#45:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:21:19.0349590+00:00:Thread#0:Scheduler: using testitem #45 for thread 0
+2019-11-27T13:21:19.0349590+00:00:Thread#0:Scheduler: Test #45 is scheduled for thread
+2019-11-27T13:21:19.0349590+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:21:19.0359590+00:00:Thread#0: Test #44/0 is finished on thread #0 as Succeeded within 16.6769312 seconds
+2019-11-27T13:21:19.0359590+00:00:Thread#0: Test #45/0 is started on thread #0
+2019-11-27T13:21:19.0369576+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:21:23.8127683+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:21:23.8127683+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:21:23.8157672+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:21:23.8157672+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:21:23.8687360+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:21:23.8687360+00:00:Thread#0:B:When the user clicks on Blog post by date 'April 2012'
+2019-11-27T13:21:26.3756128+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("April 2012") (2.5s)
+2019-11-27T13:21:26.3756128+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:21:34.7402225+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:21:34.7402225+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:21:34.7432184+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:21:34.7432184+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '2'
+2019-11-27T13:21:34.7482153+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("2") (0.0s)
+2019-11-27T13:21:34.7492155+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:21:34.8611512+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:21:34.8611512+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:21:34.8611512+00:00:Thread#:Scheduler: testitem #46 from normal test queue 
+2019-11-27T13:21:34.8611512+00:00:Thread#0:Scheduler: considering testitem #46 for thread 0
+2019-11-27T13:21:34.8611512+00:00:Thread#0:TestItem#46:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:21:34.8611512+00:00:Thread#0:TestItem#46:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:21:34.8611512+00:00:Thread#0:TestItem#46:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:21:34.8611512+00:00:Thread#0:Scheduler: using testitem #46 for thread 0
+2019-11-27T13:21:34.8611512+00:00:Thread#0:Scheduler: Test #46 is scheduled for thread
+2019-11-27T13:21:34.8611512+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:21:34.8621513+00:00:Thread#0: Test #45/0 is finished on thread #0 as Succeeded within 15.8261923 seconds
+2019-11-27T13:21:34.8621513+00:00:Thread#0: Test #46/0 is started on thread #0
+2019-11-27T13:21:34.8631487+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:21:39.6638625+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.8s)
+2019-11-27T13:21:39.6638625+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:21:39.6708563+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:21:39.6708563+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:21:39.7678049+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.1s)
+2019-11-27T13:21:39.7688017+00:00:Thread#0:B:When the user clicks on Blog post by date 'March 2012'
+2019-11-27T13:21:42.5543061+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("March 2012") (2.8s)
+2019-11-27T13:21:42.5543061+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:21:50.9330572+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:21:50.9340577+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:21:50.9390533+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:21:50.9390533+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '8'
+2019-11-27T13:21:50.9510469+00:00:Thread#0:T:Number of articles are not matching with Expected Result
+2019-11-27T13:21:50.9510469+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("8") (0.0s)
+2019-11-27T13:21:50.9520553+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:21:51.0609832+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:21:51.0609832+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:21:51.0609832+00:00:Thread#:Scheduler: testitem #47 from normal test queue 
+2019-11-27T13:21:51.0609832+00:00:Thread#0:Scheduler: considering testitem #47 for thread 0
+2019-11-27T13:21:51.0609832+00:00:Thread#0:TestItem#47:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:21:51.0609832+00:00:Thread#0:TestItem#47:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:21:51.0609832+00:00:Thread#0:TestItem#47:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:21:51.0609832+00:00:Thread#0:Scheduler: using testitem #47 for thread 0
+2019-11-27T13:21:51.0609832+00:00:Thread#0:Scheduler: Test #47 is scheduled for thread
+2019-11-27T13:21:51.0609832+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:21:51.0629818+00:00:Thread#0: Test #46/0 is finished on thread #0 as Succeeded within 16.2008305 seconds
+2019-11-27T13:21:51.0629818+00:00:Thread#0: Test #47/0 is started on thread #0
+2019-11-27T13:21:51.0629818+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:21:56.2189901+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (5.2s)
+2019-11-27T13:21:56.2189901+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:21:56.2309842+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:21:56.2309842+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:21:56.5278137+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.3s)
+2019-11-27T13:21:56.5278137+00:00:Thread#0:B:When the user clicks on Blog post by date 'February 2012'
+2019-11-27T13:21:59.4257705+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("February 2012") (2.9s)
+2019-11-27T13:21:59.4257705+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:22:07.8553636+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:22:07.8553636+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:22:07.8573590+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:22:07.8573590+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '4'
+2019-11-27T13:22:07.8663398+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("4") (0.0s)
+2019-11-27T13:22:07.8663398+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:22:07.9452932+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:22:07.9472904+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:22:07.9472904+00:00:Thread#:Scheduler: testitem #48 from normal test queue 
+2019-11-27T13:22:07.9472904+00:00:Thread#0:Scheduler: considering testitem #48 for thread 0
+2019-11-27T13:22:07.9472904+00:00:Thread#0:TestItem#48:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:22:07.9472904+00:00:Thread#0:TestItem#48:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:22:07.9472904+00:00:Thread#0:TestItem#48:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:22:07.9472904+00:00:Thread#0:Scheduler: using testitem #48 for thread 0
+2019-11-27T13:22:07.9472904+00:00:Thread#0:Scheduler: Test #48 is scheduled for thread
+2019-11-27T13:22:07.9472904+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:22:07.9482896+00:00:Thread#0: Test #47/0 is finished on thread #0 as Succeeded within 16.8853078 seconds
+2019-11-27T13:22:07.9482896+00:00:Thread#0: Test #48/0 is started on thread #0
+2019-11-27T13:22:07.9482896+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:22:12.6626017+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (4.7s)
+2019-11-27T13:22:12.6636011+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:22:12.6695978+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:22:12.6695978+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:22:12.8385003+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.2s)
+2019-11-27T13:22:12.8385003+00:00:Thread#0:B:When the user clicks on Blog post by date 'January 2012'
+2019-11-27T13:22:15.5766510+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("January 2012") (2.7s)
+2019-11-27T13:22:15.5766510+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:22:23.9477149+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:22:23.9477149+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:22:23.9517123+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:22:23.9517123+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '6'
+2019-11-27T13:22:23.9697027+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("6") (0.0s)
+2019-11-27T13:22:23.9697027+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:22:24.0876344+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:22:24.0876344+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:22:24.0876344+00:00:Thread#:Scheduler: testitem #49 from normal test queue 
+2019-11-27T13:22:24.0876344+00:00:Thread#0:Scheduler: considering testitem #49 for thread 0
+2019-11-27T13:22:24.0876344+00:00:Thread#0:TestItem#49:testItemMatchesCurrentTestThread:UnSpecific
+2019-11-27T13:22:24.0876344+00:00:Thread#0:TestItem#49:runsOnOneOtherThreadSpecific:False
+2019-11-27T13:22:24.0876344+00:00:Thread#0:TestItem#49:runsOnOneOtherThreadUnspecific:False
+2019-11-27T13:22:24.0876344+00:00:Thread#0:Scheduler: using testitem #49 for thread 0
+2019-11-27T13:22:24.0886337+00:00:Thread#0:Scheduler: Test #49 is scheduled for thread
+2019-11-27T13:22:24.0886337+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-11-27T13:22:24.0906332+00:00:Thread#0: Test #48/0 is finished on thread #0 as Succeeded within 16.1423436 seconds
+2019-11-27T13:22:24.0916328+00:00:Thread#0: Test #49/0 is started on thread #0
+2019-11-27T13:22:24.0916328+00:00:Thread#0:B:Given User is at "blog" page of SwordActiveRisk portal
+2019-11-27T13:22:30.1220427+00:00:Thread#0:T:done: CommonSteps.GivenUserIsAtBlogPageOfSwordActiveRiskPortal(""blog"") (6.0s)
+2019-11-27T13:22:30.1230400+00:00:Thread#0:B:When the user is on the Active Risk Blog Page
+2019-11-27T13:22:30.1280364+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserIsOnTheActiveRiskBlogPage() (0.0s)
+2019-11-27T13:22:30.1280364+00:00:Thread#0:B:Then the Blog posts By Date are displayed
+2019-11-27T13:22:30.4768381+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheBlogPostsByDateAreDisplayed() (0.3s)
+2019-11-27T13:22:30.4768381+00:00:Thread#0:B:When the user clicks on Blog post by date 'December 2011'
+2019-11-27T13:22:33.3703237+00:00:Thread#0:T:done: BlogVerificationSteps.WhenTheUserClicksOnBlogPostByDate("December 2011") (2.9s)
+2019-11-27T13:22:33.3713165+00:00:Thread#0:B:Then the active risk blog opens in a new tab
+2019-11-27T13:22:41.7580904+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheActiveRiskBlogOpensInANewTab() (8.4s)
+2019-11-27T13:22:41.7580904+00:00:Thread#0:B:And the list of articles are present in The Active Risk Blog
+2019-11-27T13:22:41.7600710+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheListOfArticlesArePresentInTheActiveRiskBlog() (0.0s)
+2019-11-27T13:22:41.7600710+00:00:Thread#0:B:And the Number of Blogs posted match the referenced numbers '7'
+2019-11-27T13:22:41.7730625+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheNumberOfBlogsPostedMatchTheReferencedNumbers("7") (0.0s)
+2019-11-27T13:22:41.7740645+00:00:Thread#0:B:And the user is on Active Risk Blog homepage
+2019-11-27T13:22:41.8919942+00:00:Thread#0:T:done: BlogVerificationSteps.ThenTheUserIsOnActiveRiskBlogHomepage() (0.1s)
+2019-11-27T13:22:41.8919942+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-27T13:22:41.8919942+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-27T13:22:41.8919942+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-11-27T13:22:41.8919942+00:00:Thread#0:Scheduler: No more tests for thread
+2019-11-27T13:23:01.7404213+00:00:Thread#0: Test #49/0 is finished on thread #0 as Succeeded within 37.6487885 seconds
+2019-11-27T13:23:01.8233750+00:00:Trying to cancel thread
+2019-11-27T13:23:01.8233750+00:00:Thread cancelled
+2019-11-27T13:23:01.8363688+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-11-27T13:23:01.8363688+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-27T13:23:01.8363688+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-11-27T13:23:01.8383674+00:00;Thread#13;Info;test run finished
+2019-11-27T13:23:01.8393664+00:00;Thread#13;Info;publishing test results
+2019-11-27T13:23:03.8784388+00:00;Thread#13;Info;test results published
+2019-11-27T13:23:03.8784388+00:00;Thread#13;Info;generating reports
+2019-11-27T13:23:04.0673366+00:00;Thread#13;Info;Starting external report generation process
+2019-11-27T13:23:05.3596302+00:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-11-27T13:23:05.3596302+00:00;Thread#13;Error;External program returned exit code '-1'
+2019-11-27T13:23:05.3646305+00:00;Thread#13;Info;Failed generating reports
+2019-11-27T13:23:05.3866163+00:00:Total: 46
+2019-11-27T13:23:05.3906127+00:00:Succeeded: 46
+2019-11-27T13:23:05.3916123+00:00:Ignored: 0
+2019-11-27T13:23:05.3916123+00:00:Pending: 0
+2019-11-27T13:23:05.3916123+00:00:Skipped: 0
+2019-11-27T13:23:05.3936136+00:00:Failed: 0
+2019-11-27T13:23:05.4175975+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
